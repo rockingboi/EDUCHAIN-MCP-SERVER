@@ -15,9 +15,13 @@ This project implements a **Modular Content Protocol (MCP) server** that leverag
 
 # bash
 ├── educhain_server.ipynb          # Main notebook with EduChain + MCP code
-├── mcp_server.py                  # (Optional) standalone server script
+
+├── mcp_server.py                  # standalone server script
+
 ├── claude_desktop_config.json     # Configuration for Claude Desktop
-├── Sample_Responses.txt           # Sample commands and server outputs
+
+├── Sample_Responses.xlsx           # Sample commands and server outputs
+
 ├── README.md                      # Project overview and instructions
 
 # Sample Commands (for Claude Desktop)
