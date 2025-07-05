@@ -1,0 +1,6 @@
+// Replace 8000 with the port shown in your MCP server log (default is often 8000).
+// Update Claude Config using this file
+
+{
+  "mcp_server_url": "https://<your-ngrok-url>.ngrok.io"
+}
