@@ -14,15 +14,15 @@ This project implements a **Modular Content Protocol (MCP) server** that leverag
 - ## 📁 Project Structure
 
 # bash
-├── educhain_server.ipynb          # Main notebook with EduChain + MCP code
+├── educhain_server.ipynb               # Main notebook with EduChain + MCP code
 
-├── mcp_server.py                  # standalone server script
+├── mcp_server.py                       # standalone server script
 
-├── claude_desktop_config.json     # Configuration for Claude Desktop
+├── claude_desktop_config.json          # Configuration for Claude Desktop
 
-├── Sample_Responses.xlsx           # Sample commands and server outputs
+├── Sample_Responses.xlsx               # Sample commands and server outputs
 
-├── README.md                      # Project overview and instructions
+├── README.md                           # Project overview and instructions
 
 # Sample Commands (for Claude Desktop)
 1. Generate 5 multiple-choice questions on Python loops.
